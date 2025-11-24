@@ -16,7 +16,6 @@ Proyek ini cocok sebagai halaman profil pribadi, portofolio ringkas, atau pengga
 
 ---
 
-
 ## 🛠️ Teknologi yang Digunakan
 
 - **HTML5**
