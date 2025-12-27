@@ -31,4 +31,4 @@ Proyek ini cocok sebagai halaman profil pribadi, portofolio ringkas, atau pengga
 
 ```bash
 
-git clone https://github.com/username/link-bio-page.git
+git clone https://github.com/NXRts/links.git
